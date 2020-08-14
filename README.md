@@ -8,7 +8,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 [GITHUB] (github.com/ThiagoAnd)
 
-INSTAGRAM: https://www.instagram.com/thiagoctba.it/
+[INSTAGRAM](https://www.instagram.com/thiagoctba.it/)
 
 INSTAGRAM: https://www.instagram.com/thiagoctba.tads/ 
 
