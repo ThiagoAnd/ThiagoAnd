@@ -6,11 +6,13 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 📫 How to reach me:
 
-[GITHUB] (github.com/ThiagoAnd)
+[Github](HTTPS://WWW.github.com/ThiagoAnd)
 
-[INSTAGRAM](https://www.instagram.com/thiagoctba.it/)
+[Linkedin](https://linkedin.com/in/thiago-de-andrade-200bb8192)
 
-INSTAGRAM: https://www.instagram.com/thiagoctba.tads/ 
+[Instagram It](https://www.instagram.com/thiagoctba.it/)
+
+[Instagram Tads](https://www.instagram.com/thiagoctba.tads/) 
 
 
 - 📫 How to reach me: ...
