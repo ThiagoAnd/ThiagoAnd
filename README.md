@@ -17,8 +17,9 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [Instagram Tads](https://www.instagram.com/thiagoctba.tads/) 
 
 <div>
-<img width="200" height="140" src="https://s2.glbimg.com/5Iz4ZzSACXeBMQACRQmPliuTERw=/696x390/top/smart/s2.glbimg.com/vME2Bq4OSpm6f6IE16BhcVLR98U=/695x0/s.glbimg.com/po/tt2/f/original/2014/11/14/java-logo.jpg" />
- <img widht="130" height="100" src="https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs-1000x423.jpg" />
- <img widht="150" height="100" src="https://penseemti.com.br/wp-content/uploads/2019/01/python-logo.png" />
+   <img width="200" height="140"       src="https://s2.glbimg.com/5Iz4ZzSACXeBMQACRQmPliuTERw=/696x390/top/smart/s2.glbimg.com/vME2Bq4OSpm6f6IE16BhcVLR98U=/695x0/s.glbimg.com/po/tt2/f/original/2014/11/14/java-    logo.jpg" />
+   <img widht="130" height="100" src="https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs-1000x423.jpg" />
+   <img widht="150" height="100" src="https://penseemti.com.br/wp-content/uploads/2019/01/python-logo.png" />
+   <img widht="150" height="100"src="https://www.centurylink.com/business/managed-hosting/managed-database/_jcr_content/wall-to-wall-par/columncontrol_0_copy/col0/image.img.png/1478568217724.png" />
   
 </div>
