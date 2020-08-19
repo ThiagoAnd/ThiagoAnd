@@ -15,8 +15,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [Instagram It](https://www.instagram.com/thiagoctba.it/)
 
 [Instagram Tads](https://www.instagram.com/thiagoctba.tads/) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 <div>
    <img width="200" height="140" src="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/6d886245-a7fa-43af-8b8e-4042d8adcc37.jpg" />
    <img widht="130" height="100" src="https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs-1000x423.jpg" />
