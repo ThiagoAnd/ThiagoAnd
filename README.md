@@ -17,6 +17,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [![Outlook Badge](https://img.shields.io/badge/-thiago.andrade.it@outlook.com-0078D4?style=flatsquare&logo=Microsoft-outlook&logoColor=white&link=mailto:thiago.andrade.it@outlook.com)](mailto:thiago.andrade.it@outlook.com)
 
 ### :electric_plug: Languages, tools and technologies
+
 <br/>
 
 [![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js&link=https://github.com/thiagoand/)](https://github.com/thiagoand/) 
@@ -40,11 +41,18 @@ Trying, failing, understanding and being able to execute were / are / will be my
   
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthiagoand%2Fjava&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Visits Badge](https://badges.pufler.dev/visits/thiagoand/thiagoand)](https://badges.pufler.dev)
+
 [![Repos Badge](https://badges.pufler.dev/repos/thiagoand)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/thiagoand)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=thiagoand&color=green)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&hide_langs_below=7&theme=synthwave)](https://github.com/prateekgurnani10/github-readme-stats)
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
