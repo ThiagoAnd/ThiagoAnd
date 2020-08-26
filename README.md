@@ -8,6 +8,18 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 📫 How to reach me:
 
+### Find me at:
+
+<a href="https://www.linkedin.com/in/d/" rel="nofollow">
+	<img src="https://camo.githubusercontent.com/0271c9f903c82d91b19ebd8458901d7c61ce1528/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
+</a>
+<a href="https://www.facebook.com/dolimc" rel="nofollow">
+	<img src="https://camo.githubusercontent.com/20b7a157916442df230fade0413393517ad1c290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f267374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" style="max-width:100%;">
+</a>
+
+
+<br />
+
 [Github](HTTPS://WWW.github.com/ThiagoAnd)
 
 [Linkedin](https://linkedin.com/in/thiago-de-andrade-200bb8192)
