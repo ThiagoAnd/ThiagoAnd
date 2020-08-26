@@ -40,7 +40,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthiagoand%2Fjava&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Visits Badge](https://badges.pufler.dev/visits/thiagoand/Java)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/thiagoand/*)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/thiagoand)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/thiagoand)](https://badges.pufler.dev)
 
