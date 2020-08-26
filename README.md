@@ -1,9 +1,8 @@
 ### WORKING IN PROGRESS ### :brazil:
 
 <a align="center">
-   <img width="200" height="140" src="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/6d886245-a7fa-43af-8b8e-4042d8adcc37.jpg" />
-
-  
+   
+  ![fundogit](https://user-images.githubusercontent.com/47873379/91334345-33a08780-e7a5-11ea-87d1-e5b280e395db.png)
 </a>
 
 ---
