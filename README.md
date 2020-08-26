@@ -1,4 +1,4 @@
-### WORKING IN PROGRESS ###
+### WORKING IN PROGRESS ### :brazil:
 
 ---
 
@@ -8,7 +8,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
  
 
-### 📫 Find me at:
+### :link: Find me at:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/thiago-de-andrade-200bb8192)](https://linkedin.com/in/thiago-de-andrade-200bb8192)
 [![Instagram](https://img.shields.io/badge/-Instagram_Thiagoctba.tads-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagoctba.tads/)](https://www.instagram.com/thiagoctba.tads/)
