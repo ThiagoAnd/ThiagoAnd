@@ -25,7 +25,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 [![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js&link=https://github.com/thiagoand/)](https://github.com/thiagoand/) 
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
-[![Java](https://img.shields.io/badge/Java-%20-green?style=flat-square&logo=Java&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
+[![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 <br/>
 https://img.shields.io/twitter/url?color=success&label=java&logo=java&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.google.com
 
