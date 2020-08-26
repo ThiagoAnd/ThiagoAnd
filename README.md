@@ -1,10 +1,10 @@
 ### WORKING IN PROGRESS ### :brazil:
 
-<div>
+<a align="center">
    <img width="200" height="140" src="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/6d886245-a7fa-43af-8b8e-4042d8adcc37.jpg" />
 
   
-</div>
+</a>
 
 ---
 
@@ -22,7 +22,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [![Instagram](https://img.shields.io/badge/-Instagram_Thiagoctba.it-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagoctba.it/)](https://www.instagram.com/thiagoctba.it/)
 [![Outlook Badge](https://img.shields.io/badge/-thiago.andrade.it@outlook.com-0078D4?style=flatsquare&logo=Microsoft-outlook&logoColor=white&link=mailto:thiago.andrade.it@outlook.com)](mailto:thiago.andrade.it@outlook.com)
 
-### :electric_plug: Languages, tools and technologies
+### :electric_plug: Languages, tools and technologies:
 
 <br/>
 
@@ -40,19 +40,19 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 
 
-### :octocat: Github status
+### :octocat: Github status:
 
 
 <p aligh="middle">
-<img align="middle" src="https://badges.pufler.dev/repos/thiagoand" alt="Github Stats" />
-
-</p>
-
+<img  src="https://badges.pufler.dev/repos/thiagoand" alt="Github Stats" />
 <img  src="https://badges.pufler.dev/years/thiagoand" alt="Github Stats" />
 <img  src="https://komarev.com/ghpvc/?username=thiagoand&color=green" alt="Github Stats" />
+</p>
+
+
 <br/>
 
 
 <p aligh="middle">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact" alt="Github Stats" /> <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&username=thiagoand" alt="Github Stats" /> <br />
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact" alt="Github Stats" /> <img              src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&username=thiagoand" alt="Github Stats" /> <br />
 </p>
