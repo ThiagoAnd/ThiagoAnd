@@ -32,12 +32,13 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
+[![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 
 
 
 
 
-[![Java](https://img.shields.io/badge/Java-lightgrey?style=flat-square&logo=Java&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 
 
 
