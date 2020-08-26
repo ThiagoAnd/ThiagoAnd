@@ -1,5 +1,11 @@
 ### WORKING IN PROGRESS ### :brazil:
 
+<div>
+   <img width="200" height="140" src="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/6d886245-a7fa-43af-8b8e-4042d8adcc37.jpg" />
+
+  
+</div>
+
 ---
 
 The I.T. area is fantastic. Even when I had no direct involvement, I was already enchanted by technology, like the fact that processes happen in an accelerated way and is always in constant evolution.
@@ -35,23 +41,12 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 <br />
 
-<div>
-   <img width="200" height="140" src="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/6d886245-a7fa-43af-8b8e-4042d8adcc37.jpg" />
 
-  
-</div>
-
-
-
- 
 [![Repos Badge](https://badges.pufler.dev/repos/thiagoand)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/thiagoand)](https://badges.pufler.dev)
 ![Profile visitors](https://komarev.com/ghpvc/?username=thiagoand&color=green)
 
 
-
-
-
-<p float="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact" alt="Github Stats" /> <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&username=thiagoand" alt="Github Stats" /> <br />
+<p aligh="middle">
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact" alt="Github Stats" /> <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&username=thiagoand" alt="Github Stats" /> <br />
 </p>
