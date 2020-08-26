@@ -39,7 +39,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 </div>
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/thiagoand/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/thiagoand/ThiagoAnd)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/thiagoand)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/thiagoand)](https://badges.pufler.dev)
 
