@@ -39,9 +39,9 @@ Trying, failing, understanding and being able to execute were / are / will be my
 </div>
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/thiagoand/git-badges)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/thiagoand)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/thiagoand)](https://badges.pufler.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
