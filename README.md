@@ -29,6 +29,11 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=Visual-studio-code&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
+[![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
+
+
 
 
 
