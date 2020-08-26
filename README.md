@@ -28,6 +28,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual-studio-code&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 
 
 
