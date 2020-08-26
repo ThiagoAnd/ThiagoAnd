@@ -53,7 +53,8 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 <br/>
 
-
+<!--
 <p aligh="middle">
  <img height="150px" widht="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact" alt="Github Stats" /> <img  widht="50px"   src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&username=thiagoand" alt="Github Stats" /> <br />
 </p>
+-->
