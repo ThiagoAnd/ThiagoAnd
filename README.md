@@ -27,6 +27,8 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
+
 
 [![Java](https://img.shields.io/badge/Java-lightgrey?style=flat-square&logo=Java&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 
