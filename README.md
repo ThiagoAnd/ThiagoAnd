@@ -10,7 +10,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 ### Find me at:
 
-<a href="linkedin.com/in/thiago-de-andrade-200bb8192" rel="nofollow">
+<a href="https://linkedin.com/in/thiago-de-andrade-200bb8192" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/0271c9f903c82d91b19ebd8458901d7c61ce1528/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" style="max-width:100%;">
 </a>
 
