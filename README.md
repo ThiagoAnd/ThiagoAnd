@@ -1,8 +1,8 @@
-### WORKING IN PROGRESS ### :brazil:
+ ### :brazil:
 
 <a align="center">
    
-  ![fundogit](https://user-images.githubusercontent.com/47873379/91334345-33a08780-e7a5-11ea-87d1-e5b280e395db.png)
+![fundogit](https://user-images.githubusercontent.com/47873379/91334530-81b58b00-e7a5-11ea-8c55-5b87b290c16e.png)
 </a>
 
 ---
