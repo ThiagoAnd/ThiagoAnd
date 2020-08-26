@@ -19,7 +19,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 </a>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-thiago.andrade.it@outlook.com-c14438?style=flatsquare&logo=Outlook&logoColor=white&link=mailto:thiago.andrade.it@outlook.com)](mailto:thiago.andrade.it@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-thiago.andrade.it@outlook.com-c14438?style=flatsquare&logo=Hotmail&logoColor=white&link=mailto:thiago.andrade.it@outlook.com)](mailto:thiago.andrade.it@outlook.com)
 
 ### Languages and technologies
 
