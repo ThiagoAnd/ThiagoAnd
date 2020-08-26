@@ -14,10 +14,6 @@ Trying, failing, understanding and being able to execute were / are / will be my
 	<img src="https://camo.githubusercontent.com/0271c9f903c82d91b19ebd8458901d7c61ce1528/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" style="max-width:100%;">
 </a>
 
-<a href="https://www.facebook.com/dolimc" rel="nofollow">
-	<img src="https://camo.githubusercontent.com/20b7a157916442df230fade0413393517ad1c290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f267374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" style="max-width:100%;">
-</a>
-
 [![Instagram](https://img.shields.io/badge/-Instagram_Thiagoctba.tads-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagoctba.tads/)](https://www.instagram.com/thiagoctba.tads/)
 [![Instagram](https://img.shields.io/badge/-Instagram_Thiagoctba.it-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagoctba.it/)](https://www.instagram.com/thiagoctba.it/)
 
@@ -25,7 +21,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 [![Outlook Badge](https://img.shields.io/badge/-thiago.andrade.it@outlook.com-c14438?style=flatsquare&logo=Microsoft-outlook&logoColor=white&link=mailto:thiago.andrade.it@outlook.com)](mailto:thiago.andrade.it@outlook.com)
 
-### Languages and technologies
+### Languages, tools and technologies
 
 [![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js&link=https://github.com/thiagoand/)](https://github.com/thiagoand/) 
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
@@ -38,11 +34,6 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
-
-
-
-
-
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 
 
