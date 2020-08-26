@@ -10,7 +10,7 @@
 
 Every day studying or at work I find a new technology, a different way of working in the same process, some new way that can make it easier for me to implement some activity and I continue to surprise myself just like the time I started in this area.
 
- 
+ <br/>
 
 ## :link: You can reach me:
 <br/>
@@ -43,15 +43,17 @@ Every day studying or at work I find a new technology, a different way of workin
 
 
 <p >
+   
    <img  src="https://badges.pufler.dev/repos/thiagoand" alt="Github Stats" />
    <img  src="https://badges.pufler.dev/years/thiagoand" alt="Github Stats" />
    <img  src="https://komarev.com/ghpvc/?username=thiagoand&color=green" alt="Github Stats" />
+   
 </p>
 
 
 <br/>
 
 
-#<p aligh="middle">
- <img height="150px" widht="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact" alt="Github Stats" /> <img  widht="50px"   src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&username=thiagoand" alt="Github Stats" /> <br />
+<p aligh="middle">
+ <img height="150px" widht="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact" alt="Github Stats" /> <!--<img  widht="50px"   src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&username=thiagoand" alt="Github Stats" /> --><br />
 </p>
