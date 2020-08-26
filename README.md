@@ -39,13 +39,14 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 
-<br />
 
+### :octocat: Github status
 
-[![Repos Badge](https://badges.pufler.dev/repos/thiagoand)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/thiagoand)](https://badges.pufler.dev)
-![Profile visitors](https://komarev.com/ghpvc/?username=thiagoand&color=green)
-
+<p float="center">
+<img  src="https://badges.pufler.dev/repos/thiagoand" alt="Github Stats" />
+<img  src="https://badges.pufler.dev/years/thiagoand" alt="Github Stats" />
+<img  src="https://badges.pufler.dev/ghpvc/thiagoand" alt="Github Stats" />
+</p>
 
 <p aligh="middle">
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact" alt="Github Stats" /> <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&username=thiagoand" alt="Github Stats" /> <br />
