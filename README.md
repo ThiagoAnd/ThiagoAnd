@@ -8,7 +8,8 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
  
 
-### :link: Find me at:
+### :link: You can reach me:
+<br/>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/thiago-de-andrade-200bb8192)](https://linkedin.com/in/thiago-de-andrade-200bb8192)
 [![Instagram](https://img.shields.io/badge/-Instagram_Thiagoctba.tads-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagoctba.tads/)](https://www.instagram.com/thiagoctba.tads/)
@@ -16,6 +17,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 [![Outlook Badge](https://img.shields.io/badge/-thiago.andrade.it@outlook.com-0078D4?style=flatsquare&logo=Microsoft-outlook&logoColor=white&link=mailto:thiago.andrade.it@outlook.com)](mailto:thiago.andrade.it@outlook.com)
 
 ### :electric_plug: Languages, tools and technologies
+<br/>
 
 [![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js&link=https://github.com/thiagoand/)](https://github.com/thiagoand/) 
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
