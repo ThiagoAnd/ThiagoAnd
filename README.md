@@ -44,10 +44,12 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 
 <p aligh="middle">
-<img  src="https://badges.pufler.dev/repos/thiagoand" alt="Github Stats" />
+<img align="middle" src="https://badges.pufler.dev/repos/thiagoand" alt="Github Stats" />
+
+</p>
+
 <img  src="https://badges.pufler.dev/years/thiagoand" alt="Github Stats" />
 <img  src="https://komarev.com/ghpvc/?username=thiagoand&color=green" alt="Github Stats" />
-</p>
 <br/>
 
 
