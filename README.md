@@ -43,6 +43,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 
 
+ 
 [![Repos Badge](https://badges.pufler.dev/repos/thiagoand)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/thiagoand)](https://badges.pufler.dev)
 ![Profile visitors](https://komarev.com/ghpvc/?username=thiagoand&color=green)
@@ -50,10 +51,10 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="left">
+
   <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&username=thiagoand" alt="Github Stats" /> <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&hide=css&layout=compact" alt="Top Languages" />
-</p>
+
