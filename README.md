@@ -20,7 +20,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 ### Languages and technologies
 
-[![Nodejs](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Node.js&link=https://github.com/thiagoand/)](https://github.com/thiagoand/) 
+[![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=Java&link=https://github.com/thiagoand/)](https://github.com/thiagoand/) 
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 
 <br />
