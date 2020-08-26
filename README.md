@@ -7,7 +7,7 @@
 
 ---
 
-Every day studying or at work I find a new technology, a different way of working in the same process, some new way that can make it easier for me to implement some activity and I continue to surprise myself just like the time I started in this area.
+Every day studying or at work I find a new technology, a different way of working in the same process, a new way that can facilitate the implementation of some activity and I continue to be surprised by all these possibilities!
 
  <br/>
 
