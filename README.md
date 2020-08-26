@@ -52,9 +52,8 @@ Trying, failing, understanding and being able to execute were / are / will be my
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html&layout=compact" alt="Github Stats" /> 
 
   <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&username=thiagoand" alt="Github Stats" /> <br />
-
+</p>
