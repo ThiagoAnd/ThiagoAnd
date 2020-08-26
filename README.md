@@ -38,4 +38,7 @@ Trying, failing, understanding and being able to execute were / are / will be my
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&show=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
