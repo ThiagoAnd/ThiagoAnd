@@ -18,6 +18,10 @@ Trying, failing, understanding and being able to execute were / are / will be my
 	<img src="https://camo.githubusercontent.com/20b7a157916442df230fade0413393517ad1c290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f267374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" style="max-width:100%;">
 </a>
 
+[![Instagram](https://img.shields.io/badge/-Instagram_Thiagoctba.tads-E4405F?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
+
+
+
 
 [![Outlook Badge](https://img.shields.io/badge/-thiago.andrade.it@outlook.com-c14438?style=flatsquare&logo=Microsoft-outlook&logoColor=white&link=mailto:thiago.andrade.it@outlook.com)](mailto:thiago.andrade.it@outlook.com)
 
