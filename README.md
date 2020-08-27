@@ -1,4 +1,4 @@
- ### :brazil:
+
 
 <a align="center">
    
@@ -9,6 +9,7 @@
 
 Every day studying or at work I find a new technology, a different way of working in the same process, a new way that can facilitate the implementation of some activity and I continue to be surprised by all these possibilities!
 
+---
  <br/>
 
 ## :link: You can reach me:
