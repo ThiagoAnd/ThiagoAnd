@@ -12,7 +12,7 @@ Every day studying or at work I find a new technology, a different way of workin
 ---
  <br/>
 
-## :link: You can reach me:
+## :link: How to reach me:
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/thiago-de-andrade-200bb8192)](https://linkedin.com/in/thiago-de-andrade-200bb8192)
