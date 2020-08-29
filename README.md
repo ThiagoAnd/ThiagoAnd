@@ -18,9 +18,9 @@ Every day studying or at work I find a new technology, a different way of workin
 <br/>
 
 <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/thiago-de-andrade-200bb8192)](https://linkedin.com/in/thiago-de-andrade-200bb8192)
-[![Instagram](https://img.shields.io/badge/-Instagram_Thiagoctba.tads-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagoctba.tads/)](https://www.instagram.com/thiagoctba.tads/)
-[![Instagram](https://img.shields.io/badge/-Instagram_Thiagoctba.it-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagoctba.it/)](https://www.instagram.com/thiagoctba.it/)
+[![Linkedin](https://img.shields.io/badge/-Thiago_de_Andrade-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/thiago-de-andrade-200bb8192)](https://linkedin.com/in/thiago-de-andrade-200bb8192)
+[![Instagram](https://img.shields.io/badge/-Thiagoctba.tads-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagoctba.tads/)](https://www.instagram.com/thiagoctba.tads/)
+[![Instagram](https://img.shields.io/badge/-Thiagoctba.it-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagoctba.it/)](https://www.instagram.com/thiagoctba.it/)
 [![Outlook Badge](https://img.shields.io/badge/-thiago.andrade.it@outlook.com-0078D4?style=flatsquare&logo=Microsoft-outlook&logoColor=white&link=mailto:thiago.andrade.it@outlook.com)](mailto:thiago.andrade.it@outlook.com)
 
 ## :electric_plug: Languages, tools and technologies:
