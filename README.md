@@ -49,9 +49,7 @@ Every day studying or at work I find a new technology, a different way of workin
 <p >
 
   
-   <img  src="https://badges.pufler.dev/repos/thiagoand" alt="Me segue para trocarmos aprendizados by Thiago de Andrade!!"  /> 
-   
-   <img  src="https://badges.pufler.dev/years/thiagoand" alt="Me segue para trocarmos aprendizados by Thiago de Andrade!!!" />
+   <img  src="https://badges.pufler.dev/repos/thiagoand" alt="Me segue para trocarmos aprendizados by Thiago de Andrade!!"  />  <img  src="https://badges.pufler.dev/years/thiagoand" alt="Me segue para trocarmos aprendizados by Thiago de Andrade!!!" />
    
    <img  src="https://komarev.com/ghpvc/?username=thiagoand&color=green" alt="Me segue para trocarmos aprendizados by Thiago de Andrade!!!!" />
    
