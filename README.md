@@ -38,7 +38,7 @@ Every day studying or at work I find a new technology, a different way of workin
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
-[![DB2](https://img.shields.io/badge/-DB2-000000?style=flat-square&logo=ibm&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
+[![DB2](https://img.shields.io/badge/-DB2-3CB371?style=flat-square&logo=ibm&logoColor=black&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Angular](https://img.shields.io/badge/Angular-FF4500?style=flat-square&logo=Angular&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
