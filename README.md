@@ -67,3 +67,5 @@ Every day studying or at work I find a new technology, a different way of workin
  <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
  <img height="150px" widht="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAnd&hide=css,php,html&layout=compact" alt="Github Stats" /> <!--<img  widht="50px"   src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs&username=thiagoand" alt="Github Stats" /> --><br />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&langs_count=8&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
