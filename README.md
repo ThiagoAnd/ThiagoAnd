@@ -68,4 +68,4 @@ Every day studying or at work I find a new technology, a different way of workin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&hide=css,ruby,objective-c,html&langs_count=9&layout=compact&hide_border=true)](https://github.com/thiagoand/)
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
+
