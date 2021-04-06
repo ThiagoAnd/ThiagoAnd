@@ -5,6 +5,9 @@
    
 ![javaDeveloper](https://user-images.githubusercontent.com/47873379/91588875-33cc8e80-e92f-11ea-8db4-6ec362f7d571.png)
 </a>
+<div style="position=absolute;padding-top=--50px">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="100" height="100" />
+</div>
 
 ---
 
@@ -66,8 +69,6 @@ Every day studying or at work I find a new technology, a different way of workin
    
  <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&hide=css,ruby,objective-c,html&langs_count=9&layout=compact&hide_border=true)](https://github.com/thiagoand/)
-<div style="padding-top=-100px">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="100" height="100" />
-</div>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
 
