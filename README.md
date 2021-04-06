@@ -65,6 +65,6 @@ Every day studying or at work I find a new technology, a different way of workin
 <p aligh="middle">
    
  <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&hide=css,ruby,objective-c,html&langs_count=9&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&hide=css,ruby,objective-c,html&langs_count=9&layout=compact&hide_border=true)](https://github.com/thiagoand/)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
