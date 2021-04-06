@@ -66,8 +66,8 @@ Every day studying or at work I find a new technology, a different way of workin
    
  <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&hide=css,ruby,objective-c,html&langs_count=9&layout=compact&hide_border=true)](https://github.com/thiagoand/)
-<div align="right">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="100" />
+<div style="margin-right=0px">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="10" height="100" />
 </div>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
 
