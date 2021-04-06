@@ -57,10 +57,6 @@ Every day studying or at work I find a new technology, a different way of workin
   
    
 </p>
-<div style="position=absolute;right=200px;botton=430px">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="100" height="100" />
-</div>
-
 
 <br/>
 
