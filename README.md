@@ -5,9 +5,7 @@
    
 ![javaDeveloper](https://user-images.githubusercontent.com/47873379/91588875-33cc8e80-e92f-11ea-8db4-6ec362f7d571.png)
 </a>
-<div style="position=absolute;padding-top=--50px">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="100" height="100" />
-</div>
+
 
 ---
 
@@ -59,7 +57,9 @@ Every day studying or at work I find a new technology, a different way of workin
   
    
 </p>
-
+<div style="position=absolute;padding-right=--50px">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="100" height="100" />
+</div>
 
 
 <br/>
