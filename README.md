@@ -52,7 +52,7 @@ Every day studying or at work I find a new technology, a different way of workin
 
 
 <div>
-   <img  style="margin-left:25px;" src="https://badges.pufler.dev/repos/thiagoand"  />  
+   <img  src="https://badges.pufler.dev/repos/thiagoand"  />  
    <img  src="https://komarev.com/ghpvc/?username=thiagoand&color=green" />
 </div>
    
