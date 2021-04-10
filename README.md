@@ -69,5 +69,6 @@ Every day studying or at work I find a new technology, a different way of workin
 
 [![ThiagoAnd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&hide_border=true&v=2)](https://github.com/thiagoand/)
 
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
 
