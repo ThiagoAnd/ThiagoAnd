@@ -66,7 +66,7 @@ Every day studying or at work I find a new technology, a different way of workin
 
  <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&hide=css,ruby,objective-c,html&langs_count=9&layout=compact&hide_border=true)](https://github.com/thiagoand/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&hide=css,ruby,objective-c,python,html&langs_count=9&layout=compact&hide_border=true)](https://github.com/thiagoand/)
 
 [![ThiagoAnd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&hide_border=true)](https://github.com/thiagoand/)
 
