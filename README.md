@@ -3,7 +3,7 @@
 <a align="center">
    <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
    
-![javaDeveloper](https://user-images.githubusercontent.com/47873379/91588875-33cc8e80-e92f-11ea-8db4-6ec362f7d571.png)
+   ![javaDeveloper](https://user-images.githubusercontent.com/47873379/91588875-33cc8e80-e92f-11ea-8db4-6ec362f7d571.png)
 </a>
 
 
@@ -50,26 +50,18 @@ Every day studying or at work I find a new technology, a different way of workin
 ## :octocat: Github status:
 <br/>
 
-
-
 <div>
    <img  src="https://badges.pufler.dev/repos/thiagoand"  />  
    <img  src="https://komarev.com/ghpvc/?username=thiagoand&color=green" />
 </div>
-   
-
 
 <br/>
-
-
-
-
  <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&hide=css,ruby,objective-c,python,html&langs_count=9&layout=compact&hide_border=true)](https://github.com/thiagoand/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&hide=css,ruby,objective-c,python,html&langs_count=9&layout=compact&theme=dracula)](https://github.com/thiagoand/)
 
-[![ThiagoAnd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&hide_border=true)](https://github.com/thiagoand/)
-
+[![ThiagoAnd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&theme=dracula&)](https://github.com/thiagoand/)
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
+
 
