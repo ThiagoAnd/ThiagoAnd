@@ -60,7 +60,7 @@ Every day studying or at work I find a new technology, a different way of workin
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&card_width=445&hide=css,ruby,objective-c,python,html&langs_count=6&layout=compact&theme=dracula)](https://github.com/thiagoand/)
 
-[![ThiagoAnd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&theme=dracula&)](https://github.com/thiagoand/)
+[![ThiagoAnd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&custom_title=Wakatime+Status+for+personal+projects&theme=dracula&)](https://github.com/thiagoand/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs)
 
