@@ -64,7 +64,7 @@ Every day studying or at work I find a new technology, a different way of workin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs)
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
+
+<img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
 
 
