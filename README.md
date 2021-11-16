@@ -66,27 +66,21 @@ Every day studying or at work I find a new technology, a different way of workin
  <!-- ![GitHub metrics](https://metrics.lecoq.io/ThiagoAnd) -->
  
  
- <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Thiagoand&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Thiagoand&theme=dracula&bg_color=282a36&hide_border=true" width="100%"/>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&card_width=445&hide=css,ruby,objective-c,python,html&langs_count=6&layout=compact&theme=dracula)](https://github.com/thiagoand/)
-
-[![ThiagoAnd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&custom_title=Wakatime+Status+for+personal+projects&theme=dracula&)](https://github.com/thiagoand/)
-
-![Thiago de Andrade](https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs)
-
 
 <div align=center>
    <a href=""  >
-      <img alt="GitHub Wakatime" align="left" width=500 src="https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&custom_title=Wakatime+Status+for+personal+projects&theme=dracula&"/>
+      <img alt="GitHub Wakatime" align="left" width=485 src="https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&custom_title=Wakatime+Status+for+personal+projects&theme=dracula&"/>
     </a>
     <a href="">
-      <img alt="GitHub Streaks" align="right" width=400  src="https://github-readme-streak-stats.herokuapp.com/?user=ArgLD&theme=dracula&border=61dafb&hide_border=true"/>
+      <img alt="GitHub Streaks" align="right" width=420  src="https://github-readme-streak-stats.herokuapp.com/?user=ArgLD&theme=dracula&border=61dafb&hide_border=true"/>
     </a>
     <a href="" >
-      <img alt="GitHub Metrics" align="right" width=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&card_width=445&hide=css,ruby,objective-c,python,html&langs_count=6&layout=compact&theme=dracula"/>
+      <img alt="GitHub Metrics" align="right" width=420  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&card_width=445&hide=css,ruby,objective-c,python,html&langs_count=6&layout=compact&theme=dracula"/>
     </a>
     <a href="">
-      <img alt="GitHub Metrics" align="right" width=400  src="https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs"/>
+      <img alt="GitHub Metrics" align="right" width=420  src="https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs"/>
     </a>
   </div>
 
