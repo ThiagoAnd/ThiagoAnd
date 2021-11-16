@@ -74,16 +74,18 @@ Every day studying or at work I find a new technology, a different way of workin
       <img alt="GitHub Wakatime" align="left" width=485 src="https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&custom_title=Wakatime+Status+for+personal+projects&theme=dracula&"/>
     </a>
     <a href="">
-      <img alt="GitHub Streaks" align="right" width=420  src="https://github-readme-streak-stats.herokuapp.com/?user=ArgLD&theme=dracula&border=61dafb&hide_border=true"/>
+      <img alt="GitHub Streaks" align="right" width=420  src="https://github-readme-streak-stats.herokuapp.com/?user=ArgLD&theme=dracula&fire=B4DD23&border=61dafb&hide_border=true"/>
     </a>
     <a href="" >
-      <img alt="GitHub Metrics" align="right" width=420  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&card_width=445&hide=css,ruby,objective-c,python,html&langs_count=6&layout=compact&theme=dracula"/>
+      <img alt="GitHub top langs" align="right" width=420  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&card_width=445&hide=css,ruby,objective-c,python,html&langs_count=6&layout=compact&theme=dracula"/>
     </a>
     <a href="">
-      <img alt="GitHub Metrics" align="right" width=420  src="https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs"/>
+      <img alt="GitHub contrib" align="right" width=420  src="https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs"/>
     </a>
   </div>
 
 <img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/ThiagoAnd/ThiagoAnd/output/github-contribution-grid-snake.svg)
 
 
