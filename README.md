@@ -76,17 +76,18 @@ Every day studying or at work I find a new technology, a different way of workin
 
 
 <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GitHub Metrics" align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoAnd&theme=dracula&border=61dafb&hide_border=true"/>
+   <a href=""  >
+      <img alt="GitHub Wakatime" align="left" width=500 src="https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&custom_title=Wakatime+Status+for+personal+projects&theme=dracula&"/>
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    
-             <img alt="GitHub Metrics" align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoAnd&theme=dracula&border=61dafb&hide_border=true"/>
-
-       
+    <a href="">
+      <img alt="GitHub Streaks" align="right" width=400  src="https://github-readme-streak-stats.herokuapp.com/?user=ArgLD&theme=dracula&border=61dafb&hide_border=true"/>
     </a>
-   
-  
+    <a href="" >
+      <img alt="GitHub Metrics" align="right" width=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&card_width=445&hide=css,ruby,objective-c,python,html&langs_count=6&layout=compact&theme=dracula"/>
+    </a>
+    <a href="">
+      <img alt="GitHub Metrics" align="right" width=400  src="https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs"/>
+    </a>
   </div>
 
 <img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
