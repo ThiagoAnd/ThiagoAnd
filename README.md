@@ -80,7 +80,7 @@ Every day studying or at work I find a new technology, a different way of workin
       <img alt="GitHub top langs" align="right" width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&card_width=445&hide=css,ruby,objective-c,python,html&langs_count=6&layout=compact&theme=dracula"/>
     </a>
     <a href="">
-      <img alt="GitHub contrib" align="right" width="43%" src="https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs"/>
+      <img alt="GitHub contrib" align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs"/>
     </a>
   </div>
 
