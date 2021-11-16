@@ -18,16 +18,19 @@ Every day studying or at work I find a new technology, a different way of workin
 <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
 ## :link: How to reach me:
 <br/>
-
+<div align="center"> 
+   
 <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
 [![Linkedin](https://img.shields.io/badge/-Thiago_de_Andrade-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/thiago-de-andrade-200bb8192)](https://linkedin.com/in/thiago-de-andrade-200bb8192)
 [![Instagram](https://img.shields.io/badge/-Thiagoctba.tads-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagoctba.tads/)](https://www.instagram.com/thiagoctba.tads/)
 [![Instagram](https://img.shields.io/badge/-Thiagoctba.it-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagoctba.it/)](https://www.instagram.com/thiagoctba.it/)
 [![Outlook Badge](https://img.shields.io/badge/-thiago.andrade.it@outlook.com-0078D4?style=flatsquare&logo=Microsoft-outlook&logoColor=white&link=mailto:thiago.andrade.it@outlook.com)](mailto:thiago.andrade.it@outlook.com)
+</div>
 
 ## :electric_plug: Languages, tools and technologies:
 
 <br/>
+<div align="center"> 
 
 <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
 [![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node.js&link=https://github.com/thiagoand/)](https://github.com/thiagoand/) 
@@ -46,6 +49,8 @@ Every day studying or at work I find a new technology, a different way of workin
 [![Angular](https://img.shields.io/badge/Angular-FF4500?style=flat-square&logo=Angular&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 [![Websphere](https://img.shields.io/badge/Websphere-836FFF?style=flat-square&logo=ibm&logoColor=black&link=https://github.com/thiagoand/)](https://github.com/thiagoand/)
 
+ </div>  
+   
 <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
 ## :octocat: Github status:
 <br/>
@@ -58,12 +63,31 @@ Every day studying or at work I find a new technology, a different way of workin
 <br/>
  <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
  
+ <!-- ![GitHub metrics](https://metrics.lecoq.io/ThiagoAnd) -->
+ 
+ 
+ <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Thiagoand&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&card_width=445&hide=css,ruby,objective-c,python,html&langs_count=6&layout=compact&theme=dracula)](https://github.com/thiagoand/)
 
 [![ThiagoAnd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&custom_title=Wakatime+Status+for+personal+projects&theme=dracula&)](https://github.com/thiagoand/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs)
+![Thiago de Andrade](https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs)
 
+
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="GitHub Metrics" align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoAnd&theme=dracula&border=61dafb&hide_border=true"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    
+             <img alt="GitHub Metrics" align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoAnd&theme=dracula&border=61dafb&hide_border=true"/>
+
+       
+    </a>
+   
+  
+  </div>
 
 <img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
 
