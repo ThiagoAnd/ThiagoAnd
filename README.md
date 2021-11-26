@@ -86,6 +86,6 @@ Every day studying or at work I find a new technology, a different way of workin
 
 <img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ThiagoAnd/ThiagoAnd/output/github-contribution-grid-snake.svg)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/ThiagoAnd/ThiagoAnd/output/github-contribution-grid-snake.svg) -->
 
 
