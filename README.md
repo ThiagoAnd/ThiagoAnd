@@ -71,7 +71,7 @@ Every day studying or at work I find a new technology, a different way of workin
 
 <div align=center>
    <a href=""  >
-      <img alt="GitHub Wakatime" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&custom_title=Wakatime+Status+for+personal+projects&theme=dracula&"/>
+      <img alt="GitHub Wakatime" align="left" width="45.8%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&custom_title=Wakatime+Status+for+personal+projects&theme=dracula&"/>
     </a>
     <a href="">
       <img alt="GitHub Streaks" align="right" width="44%"  src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoAnd&theme=dracula&fire=B4DD23&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
