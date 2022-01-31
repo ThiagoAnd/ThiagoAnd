@@ -71,13 +71,13 @@ Every day studying or at work I find a new technology, a different way of workin
 
 <div align=center>
    <a href=""  >
-      <img alt="GitHub Wakatime" align="left" width="45.8%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&custom_title=Wakatime+Status+for+personal+projects&theme=dracula&"/>
+      <img alt="GitHub Wakatime" align="left" width="45.8%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoAnd&custom_title=Wakatime+Status+for+personal+projects&count_private=true&theme=dracula&"/>
     </a>
     <a href="">
       <img alt="GitHub Streaks" align="right" width="44%"  src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoAnd&theme=dracula&fire=B4DD23&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
     </a>
     <a href="" >
-      <img alt="GitHub top langs" align="right" width="44%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&card_width=445&&custom_title=+&hide=css,ruby,objective-c,python,html&langs_count=6&layout=compact&theme=dracula"/>
+      <img alt="GitHub top langs" align="right" width="44%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoand&card_width=445&&custom_title=+&hide=css,ruby,objective-c,python,html&langs_count=15&layout=compact&count_private=true&theme=dracula"/>
     </a>
     <a href="">
       <img alt="GitHub contrib" align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=+&count_private=true&hide=contribs,prs"/>
