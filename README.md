@@ -13,6 +13,7 @@ Every day studying or at work I find a new technology, a different way of workin
 
 
 ---
+
  <br/>
  
 <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
@@ -63,8 +64,13 @@ Every day studying or at work I find a new technology, a different way of workin
 <br/>
  <!--Me segue pra trocarmos experiencias ^^ by Thiago de Andrade-->
  
- <!-- ![GitHub metrics](https://metrics.lecoq.io/ThiagoAnd) -->
+
+ <!-- <img src="https://metrics.lecoq.io/ThiagoAnd" /> -->
  
+ <img src="https://github-profile-trophy.vercel.app/?username=ThiagoAnd&theme=dracula" />
+ 
+ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoAnd&theme=dracula"/> -->
+
  
  <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Thiagoand&theme=dracula&bg_color=282a36&hide_border=true" width="100%"/>
  
