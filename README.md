@@ -67,7 +67,7 @@ Every day studying or at work I find a new technology, a different way of workin
 
  <!-- <img src="https://metrics.lecoq.io/ThiagoAnd" /> -->
  
- <img src="https://github-profile-trophy.vercel.app/?username=ThiagoAnd&theme=dracula" />
+ <!-- <img src="https://github-profile-trophy.vercel.app/?username=ThiagoAnd&theme=dracula" /> -->
  
  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoAnd&theme=dracula"/> -->
 
