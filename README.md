@@ -72,7 +72,7 @@ Every day studying or at work I find a new technology, a different way of workin
  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoAnd&theme=dracula"/> -->
 
  
- <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Thiagoand&theme=dracula&bg_color=282a36&hide_border=true" width="100%"/>
+<!--  <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Thiagoand&theme=dracula&bg_color=282a36&hide_border=true" width="100%"/> -->
  
 
 <div align=center>
